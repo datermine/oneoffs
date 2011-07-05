@@ -1,0 +1,14 @@
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  line-height: 1.2em;
+}
+
+div.wrapper {
+  border-bottom: 1px solid #b0bec7;
+  line-height: 16px;
+  font-size: 22px;
+}
+
