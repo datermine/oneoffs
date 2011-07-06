@@ -12,3 +12,17 @@ div.wrapper {
   font-size: 22px;
 }
 
+div.should_be_empty_afterwards {
+  font-weight : normal;
+  font-style : normal;
+  font-variant : normal;
+  text-align : justify;
+  text-align : left;
+  text-transform : uppercase;
+  color : #000000;
+  text-decoration : none;
+  writing-mode : horizontal-tb;
+  line-height: 1.2em;
+  line-height: 16px;
+  line-height: 16.5px;    
+}
